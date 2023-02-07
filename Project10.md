@@ -20,7 +20,7 @@
 
 [Web Url](https://www.freenom.com/en/index.html?lang=en)
 
-[Domain Name](https://toolsibadan.ga )
+[Domain Name](https://toolsibadan.ga)
 
 - In AWS, navigate to Route 53 Dashboard to create hosted zone:
 
